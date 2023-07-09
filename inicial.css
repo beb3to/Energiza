@@ -8,6 +8,7 @@ html,
 body {
   height: 100%;
   margin: 0;
+  font-family:'fontname', Belanosima;
   
 }
 
@@ -79,6 +80,7 @@ main{
     left: 30%;
     transform: translate(-60%, -60%);
     text-align: center;
+    font-size: 18px;
 }
 
 footer{
